@@ -3,6 +3,7 @@ module.exports = {
     title: 'Colin Reed Portfolio',
     author: 'Hunter Chang, Colin Reed',
     description: 'Developer Portfolio based around Gatsby content',
+    siteUrl: 'https://colinreed.me/'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -19,5 +20,6 @@ module.exports = {
       },
     },
     'gatsby-plugin-sass',
+    'gatsby-plugin-cname'
   ],
 }
