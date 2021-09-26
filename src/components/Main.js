@@ -1,7 +1,8 @@
 import PropTypes from 'prop-types'
 import React from 'react'
 import pic01 from '../images/pic01.jpg'
-import pic02 from '../images/pic02.jpg'
+import kfc_vn_rollout from '../images/kfc_vn_rollout.jpg'
+import farrierPic from '../images/farrier.jpg'
 import pic03 from '../images/pic03.jpg'
 
 class Main extends React.Component {
@@ -64,7 +65,7 @@ class Main extends React.Component {
         >
           <h2 className="major">Work</h2>
           <span className="image main">
-            <img src={pic02} alt="" />
+            <img src={kfc_vn_rollout} alt="" />
           </span>
           <p>
             Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
@@ -81,6 +82,9 @@ class Main extends React.Component {
             libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat
             tempus.
           </p>
+          <span className="image main">
+            <img src={farrierPic} alt="" />
+          </span>
           {close}
         </article>
 
