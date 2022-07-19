@@ -129,8 +129,8 @@ class Main extends React.Component {
         >
           <h2 className="major">Contact</h2>
           <p>
-            Please connect with me through Linkedin, 
-            <a href = "mailto: colin@colinreed.me"> or email.</a>
+            Please connect with me through Linkedin, or
+            <a href = "mailto: colin@colinreed.me">email.</a>
           </p>
           <ul className="icons">
             <li>

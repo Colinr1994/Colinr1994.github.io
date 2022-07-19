@@ -10,9 +10,7 @@ const Header = props => (
       <div className="inner">
         <h1>Colin Reed</h1>
         <p>
-          Full Stack Software Developer looking towards a career in 
-          <br />
-          Data Science and Machine Learning
+          Socalizing the junction between fast code, quick code, and clean code.
         </p>
       </div>
     </div>
